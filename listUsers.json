@@ -1,0 +1,115 @@
+[
+
+{
+  "id": 1,
+  "name": "string1",
+  "account": {
+    "id": 3648,
+    "number": "01.240923-1",
+    "agency": "01",
+    "balance": 3000,
+    "limit": 10000
+  },
+  "card": {
+    "id": 3321,
+    "number": "1111 2222 3333 1111",
+    "limit": 5000
+  },
+  "features": [
+
+  ],
+  "news": [
+
+  ]
+},
+{
+  "id": 2,
+  "name": "string2",
+  "account": {
+    "id": 3648,
+    "number": "01.240923-1",
+    "agency": "01",
+    "balance": 7000,
+    "limit": 10000
+  },
+  "card": {
+    "id": 3321,
+    "number": "1111 2222 3333 2222",
+    "limit": 5000
+  },
+  "features": [
+
+  ],
+  "news": [
+
+  ]
+},
+{
+  "id": 3,
+  "name": "string3",
+  "account": {
+    "id": 3648,
+    "number": "01.240923-1",
+    "agency": "01",
+    "balance": 300,
+    "limit": 10000
+  },
+  "card": {
+    "id": 3321,
+    "number": "1111 2222 3333 2222",
+    "limit": 5000
+  },
+  "features": [
+
+  ],
+  "news": [
+
+  ]
+},
+
+{
+  "id": 4,
+  "name": "string4",
+  "account": {
+    "id": 3648,
+    "number": "01.240923-1",
+    "agency": "01",
+    "balance": 9000,
+    "limit": 10000
+  },
+  "card": {
+    "id": 3321,
+    "number": "1111 2222 3333 4444",
+    "limit": 50000
+  },
+  "features": [
+
+  ],
+  "news": [
+
+  ]
+},
+
+{
+  "id": 5,
+  "name": "string5",
+  "account": {
+    "id": 3648,
+    "number": "01.240923-1",
+    "agency": "01",
+    "balance": 300000,
+    "limit": 10000
+  },
+  "card": {
+    "id": 3321,
+    "number": "1111 2222 3333 5555",
+    "limit": 25000
+  },
+  "features": [
+
+  ],
+  "news": [
+
+  ]
+}
+]
